@@ -4,13 +4,19 @@ A Sample Using Google Play Services Mobile Vision - Barcode API
 
 This is a sample use Barcode API to read qrcode.
 
-More information: [Barcode API Overview][]
+More information: [Barcode API Overview] [] 、[API document] []
 [Barcode API Overview]:   https://developers.google.com/vision/barcodes-overview
 
 
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
+[API document]:   https://developers.google.com/android/reference/com/google/android/gms/vision/barcode/package-summary
 
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
+
+
+Reference :
+
+[Reading QR Codes Using the Mobile Vision API] [1] 
+[barcode-reader] [2] 
+
+  [1]: http://code.tutsplus.com/tutorials/reading-qr-codes-using-the-mobile-vision-api--cms-24680      "Reading QR Codes Using the Mobile Vision API"
+  [2]: https://github.com/googlesamples/android-vision/tree/master/visionSamples/barcode-reader  "barcode-reader"
+
